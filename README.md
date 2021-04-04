@@ -1,0 +1,2 @@
+# AutoVehicle
+AutoVehicle is a semi-automatic car rigging plugin that rigs cars in just few clicks. This is a great plugin for beginners and modelers to quickly and easily rig their cars to test them out or even place them into game without any scripting knowledge, it also saves a lot of time. For those interested, it does the most time consuming part of the car rigging process. The plugin is planned to be at some point 99.99% automatic, so you don’t have to do anything at all.
